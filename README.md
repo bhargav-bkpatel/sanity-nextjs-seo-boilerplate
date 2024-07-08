@@ -1,0 +1,1 @@
+# sanity-nextjs-seo-boilerplate
